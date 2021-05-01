@@ -1,12 +1,12 @@
-## Olá, me chamo Fábio 👋
+## Hi, my name is Fábio 👋
 
-Sou um entusiasta e eterno estudante do mundo tecnologico, sobretudo computadores e programação.
+I'm an enthusiastic and student of the technology world, especially computers and programming.
 
-Gosto de aprender coisas novas e ajudar pessoas a fazerem o mesmo.
+I like to learn new things and help people to do the same.
 
-Também sou Analista de Sistemas formado pelo Institudo Federal do Piauí, onde atualmente, tenho a satistação de ser professor.
+I'm also a Systems Analyst graduated from the Federal Institute of Piauí, where I currently have the satisfaction of being a teacher.
 
 
-Agradecimentos ao [IFPI](https://ifpi.edu.br) e a turma do [WTTD](https://henriquebastos.net)
+Thanks to [IFPI] (https://ifpi.edu.br) and the [WTTD]'s friends (https://henriquebastos.net)
 
 😃
